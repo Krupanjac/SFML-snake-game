@@ -7,3 +7,8 @@ A simple snake game with cool music built for windows and linux using procedural
 
 ![ss1](https://i.imgur.com/Kl3AsCf.png)
 ![ss2](https://i.imgur.com/ciwfyqx.png)
+
+
+
+
+Arsen Djurdjev, Nikola Grujicic 2018
