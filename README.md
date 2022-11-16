@@ -1,4 +1,6 @@
-# snake-game-SFML-c
+## Arsen Djurdjev, Nikola Grujicic 2018
+
+# snake-game-SFML
 A simple snake game with cool music built for windows and linux using procedural programming and sfml libraries. Written using **C** programming language. Cpp extension was needed in order to utilise SFML libraries. Logic was done procedurally.
 
 ***MANUAL***
@@ -17,4 +19,3 @@ Best to use with VS code (hidden .vscode folder containing a lot of pre-setup do
 
 
 
-Arsen Djurdjev, Nikola Grujicic 2018
